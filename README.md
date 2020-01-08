@@ -1,5 +1,5 @@
 # K-controller
-Compact 8 axis game controller for Kerbal Space Program game. Uses two H-D400X-R4 3 axis joysticks and 2 sliders for control.
+Compact 8 axis game controller for Kerbal Space Program game. Uses two JH-D400X-R4 3 axis joysticks and 2 sliders for control.
 
 
 
