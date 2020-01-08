@@ -1,5 +1,5 @@
 Part "PcbStand" is glued to the Case.
 
-The slider potentiometer is connected upside down then by software flipped back. Because BU0836 somehow starts counting from 1, which makes it difficult to completely shut down the engines in the KSP. This method is the easiest to configure.
+The slider potentiometer is connected upside down then by software flipped back. Because BU0836A somehow starts counting from 1, which makes it difficult to completely shut down the engines in the KSP. This method is the easiest to configure.
 
 KSP supports uses only 20 buttons, so do not connect buttons 21 to 22 in front.
